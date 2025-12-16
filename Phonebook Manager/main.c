@@ -132,7 +132,7 @@ int comparePasswords(const char *enteredPassword, const char *correctPassword) {
 
 int main()
 {
-    const char *correctPassword = "1234"
+    const char *correctPassword = "1234";
     char enteredPassword[5];
 
     printf("Welcome to Your Phonebook\n\n");
